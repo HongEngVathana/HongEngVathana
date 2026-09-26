@@ -36,9 +36,10 @@ Software Engineer (Remote) | Enterprise & Client Solutions
 - Designed relational schemas and managed migrations in PostgreSQL.
 - Participated in remote Agile/Scrum sprints, backlog refinements, and asynchronous code reviews.
 
-TECHNICAL TRAINING (REMOTE)
+TECHNICAL TRAINING (2 YEARS - REMOTE & CONTINUING WITH DISTRIBUTED PROJECTS)
 Software Development Student / Trainee (Remote) | Simpaz Training Center
-- Completed comprehensive remote software engineering curriculum spanning Entry, Junior, Middle, and Senior-Level topics.
+- Completed 2 years of comprehensive remote software engineering curriculum spanning Entry, Junior, Middle, and Senior-Level topics.
+- Currently continuing advanced training focused on distributed projects, microservices, and resilient systems.
 - Rigorous practice in TDD (Jasmine/Karma), Clean Architecture, SOLID, Design Patterns, and Docker.
 
 EDUCATION

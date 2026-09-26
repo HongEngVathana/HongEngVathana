@@ -23,12 +23,16 @@ export const SimpazTraining: React.FC = () => {
             <span className="text-xs font-mono font-semibold tracking-wider text-slate-500 uppercase">
               03 &bull; Technical Curriculum
             </span>
-            <div className="flex items-center gap-2 mt-1">
+            <div className="flex flex-wrap items-center gap-2 mt-1">
               <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900">
                 Simpaz Software Development Training
               </h2>
               <span className="text-xs font-mono font-medium px-2 py-0.5 rounded bg-blue-50 text-blue-700 border border-blue-200">
-                100% Remote
+                2 Years &bull; 100% Remote
+              </span>
+              <span className="text-xs font-mono font-medium px-2 py-0.5 rounded bg-emerald-50 text-emerald-800 border border-emerald-200 flex items-center gap-1">
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
+                Continuing w/ Distributed Projects
               </span>
             </div>
           </div>

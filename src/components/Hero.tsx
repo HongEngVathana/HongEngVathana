@@ -62,8 +62,8 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume }) => {
           <div className="flex items-center gap-2.5 text-slate-700">
             <i className="ri-book-open-line text-base text-slate-500" />
             <div>
-              <span className="font-medium text-slate-900 block">Simpaz Training Center</span>
-              <span className="text-[11px] font-mono text-blue-700">Remote Technical Training</span>
+              <span className="font-semibold text-slate-900 block">2 Years Simpaz Training</span>
+              <span className="text-[11px] font-mono text-blue-700">Continuing w/ Distributed Projects</span>
             </div>
           </div>
           <div className="flex items-center gap-2.5 text-slate-700">

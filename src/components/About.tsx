@@ -30,8 +30,8 @@ export const About: React.FC = () => {
         {/* Narrative */}
         <div className="space-y-4 text-slate-700 text-sm sm:text-base leading-relaxed mb-10">
           <p>
-            I am a <strong className="font-semibold text-slate-950">Year 4 Computer Science student</strong> and a{' '}
-            <strong className="font-semibold text-slate-950">Software Development Trainee at Simpaz Training Center</strong>, with{' '}
+            I am a <strong className="font-semibold text-slate-950">Year 4 Computer Science student</strong> with{' '}
+            <strong className="font-semibold text-slate-950">2 years of intensive software development training at Simpaz Training Center</strong> (currently continuing advanced training on distributed projects), and{' '}
             <strong className="font-semibold text-slate-950">1 year of professional software engineering experience</strong>.
           </p>
           <p>

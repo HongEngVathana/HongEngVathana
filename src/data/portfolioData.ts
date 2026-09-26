@@ -6,7 +6,8 @@ export const PERSONAL_INFO = {
   role: 'Software Engineer',
   education: 'Year 4 Computer Science Student',
   experienceDuration: '1 Year Professional Experience (Remote)',
-  training: 'Software Development Training at Simpaz Training Center (Remote)',
+  trainingDuration: '2 Years Remote Training (Continuing with Distributed Projects)',
+  training: '2 Years Software Development Training at Simpaz Training Center (Remote, Continuing with Distributed Projects)',
   location: 'Cambodia (Remote)',
   workplaceType: '100% Remote',
   email: 'engvathanahong@gmail.com',
@@ -20,7 +21,7 @@ export const PERSONAL_INFO = {
   heroHeading: 'SOFTWARE ENGINEER',
   heroSubheading: 'Building Scalable Digital Products.',
   heroDescription:
-    'Software Engineer and Year 4 Computer Science student with practical software development training from Simpaz Training Center and 1 year of professional software engineering experience building web, mobile, and backend applications — with all training and professional work conducted 100% remotely.',
+    'Software Engineer and Year 4 Computer Science student with 2 years of practical software development training from Simpaz Training Center (currently continuing with distributed projects) and 1 year of professional software engineering experience building web, mobile, and backend applications — 100% remotely.',
 };
 
 export const SIMPAZ_CURRICULUM: { [key: string]: CurriculumTopic } = {
@@ -137,19 +138,21 @@ export const EXPERIENCES: ExperienceItem[] = [
   {
     role: 'Software Development Student / Trainee',
     organization: 'Simpaz Training Center',
-    period: 'Intensive Technical Program',
+    period: '2 Years Training (Continuing with Distributed Projects)',
     locationType: 'Remote',
     type: 'Education & Training',
     description:
-      'Practical software development training completed 100% remotely, focused on programming fundamentals, software engineering practices, real-world development workflows, testing, architecture, Agile/Scrum, and modern software technologies.',
+      '2 years of practical software development training completed 100% remotely, focused on programming fundamentals, software engineering practices, real-world development workflows, testing, architecture, Agile/Scrum, and modern software technologies. Currently continuing advanced training focused on distributed projects and systems engineering.',
     responsibilities: [
-      'Completed comprehensive hands-on curriculum remotely covering programming from fundamentals to advanced patterns.',
+      'Completed 2-year comprehensive hands-on curriculum remotely covering programming from fundamentals to advanced patterns.',
+      'Actively continuing advanced training with distributed projects, service communication, and microservices.',
       'Practiced Test-Driven Development (TDD) with Jasmine, Karma, and automated testing frameworks.',
       'Implemented MVC, MVVM, Service Layer, and Repository patterns across web and backend projects.',
       'Gained deep practical insight into Docker containerization, ORM integration, and web API security.',
       'Simulated production sprint cycles, remote team coordination, UML modeling, and code auditing.',
     ],
     technologies: [
+      'Distributed Systems',
       'Angular',
       'TypeScript',
       'C#',
@@ -442,10 +445,10 @@ export const LEARNING_JOURNEY_STEPS = [
   },
   {
     number: '02',
-    title: 'Simpaz Software Development Training',
-    category: 'Professional Training',
+    title: 'Simpaz Software Development Training (2 Years & Continuing)',
+    category: 'Professional Training (Remote)',
     description:
-      'Practical software development training at Simpaz Training Center focusing on real-world development workflows, TDD, and engineering practices.',
+      '2 years of intensive remote software development training at Simpaz Training Center, currently continuing with advanced distributed projects and systems engineering.',
     icon: 'ri-book-open-line',
   },
   {
